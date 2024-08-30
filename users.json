@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "fullname": "phohoho jol",
+      "email": "phong@gm.com",
+      "password": "123456789",
+      "gender": "Male",
+      "id": "3"
+    },
+    {
+      "id": "6",
+      "fullname": "phongsiri aka",
+      "email": "kkkk@aa.com",
+      "password": "135791113",
+      "gender": "Female"
+    },
+    {
+      "id": "7",
+      "fullname": "llloppper xaxax",
+      "email": "aaa@aa.com",
+      "password": "123456789",
+      "gender": "None"
+    }
+  ]
+}
